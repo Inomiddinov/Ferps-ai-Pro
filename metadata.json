@@ -1,0 +1,7 @@
+{
+  "name": "Ferps AI Pro",
+  "description": "A sophisticated multimodal AI assistant with Video generation, Voice interaction, and Document analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
